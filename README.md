@@ -1,12 +1,12 @@
 <div align="center">
 
-<h1>Hi, I'm Ramana Reddy 👋</h1>
+<h1>Hi, I'm Ramana Reddy</h1>
 
-<h3>🧠 AI/ML Engineer · 🔬 Medical AI Researcher · 🚀 Building Notes9</h3>
+<h3>AI/ML Engineer &nbsp;&middot;&nbsp; Medical AI Researcher &nbsp;&middot;&nbsp; Building Notes9</h3>
 
 <p>
   <a href="https://portfolio-y5ox.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0000007?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/RamanaNani">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -19,20 +19,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an **AI/ML Engineer** passionate about building intelligent systems at the intersection of AI and science. I'm currently building **Notes9** — an AI-native Electronic Lab Notebook (ELN) that helps researchers think deeper, not just record. Structured lab data, context-aware AI, and real scientific insights — all in one workspace.
 
-- 🔭 **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN with embedded AI assistant (Catalyst), RAG pipelines, and molecular viewers
-- 🤖 **Focus Areas:** LLMs, RAG systems, AI Agents, Agentic Workflows, Medical AI
-- 🧪 **Background:** Fracture Detection (YOLO/DETR), Medical Prognosis, Clinical NLP, Biomedical NLI
-- 🌱 **Currently Learning:** Multi-agent orchestration, AWS Bedrock, Mastra agent framework
-- 💬 **Ask me about:** AI/ML, RAG pipelines, Claude Code agents, Next.js + Supabase, Python
-- ⚡ **Fun fact:** I built an agent that routes other AI agents by task — and learns from your ratings!
+- **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN with embedded AI assistant (Catalyst), RAG pipelines, and molecular viewers
+- **Focus Areas:** LLMs, RAG systems, AI Agents, Agentic Workflows, Medical AI
+- **Background:** Fracture Detection (YOLO/DETR), Medical Prognosis, Clinical NLP, Biomedical NLI
+- **Currently Learning:** Multi-agent orchestration, AWS Bedrock, Mastra agent framework
+- **Ask me about:** AI/ML, RAG pipelines, Claude Code agents, Next.js + Supabase, Python
+- **Fun fact:** I built an agent that routes other AI agents by task — and learns from your ratings
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -86,26 +86,26 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚀 [Notes9](https://github.com/Notes9Org) | AI-native ELN — Catalyst AI assistant, RAG pipelines, molecular viewers, Cytoscape research map | Next.js 16, Supabase, FastAPI, AWS Bedrock, TipTap |
-| 🤖 [agent-router](https://github.com/RamanaNani/agent-router) | Routes Claude Code agents by task using BM25 + bandit algorithm — learns from your ratings | JavaScript, Claude Code |
-| 🦴 [Fracture-Detection](https://github.com/RamanaNani/Fracture-Detection) | Multi-class bone fracture detection with YOLOv4, Faster R-CNN & Detection Transformers | Python, PyTorch, DETR |
-| 🧬 [LLMs-in-Health-Science](https://github.com/RamanaNani/LLMs-in-Health-Science) | MedBERT, MedRoBERTa & Longformer ensemble for clinical trial NLI (SemEval 2024 Task 2) | Python, HuggingFace |
-| 🧠 [Attention-Mechanism](https://github.com/RamanaNani/Attention-mechanism) | Full Transformer from scratch — encoder, decoder, multi-head attention + positional encoding | Python, PyTorch |
-| 📊 [Home Credit Risk](https://github.com/RamanaNani/Home_credit_risk) | Credit default prediction with LightGBM, SHAP explainability & MLflow experiment tracking | Python, LightGBM, SHAP |
-| ♟️ [Chess + RL](https://github.com/RamanaNani/Chess-game-with-RL-environments) | DQN vs MCTS in PettingZoo chess env — 4672 action discrete space | Python, PyTorch, PettingZoo |
-| 📋 [CTR-Extraction](https://github.com/RamanaNani/CTR-extraction) | LLM-powered SAP clinical trial analyzer with FDA E9 compliance checking | Python, LLMs, NLP |
-| 🌐 [Language-Translation](https://github.com/RamanaNani/Language-translation) | Fine-tuned seq2seq models EN↔GR and RO↔EN with Streamlit UI | Python, Transformers, Streamlit |
+| [Notes9](https://github.com/Notes9Org) | AI-native ELN — Catalyst AI assistant, RAG pipelines, molecular viewers, Cytoscape research map | Next.js 16, Supabase, FastAPI, AWS Bedrock, TipTap |
+| [agent-router](https://github.com/RamanaNani/agent-router) | Routes Claude Code agents by task using BM25 + bandit algorithm — learns from your ratings | JavaScript, Claude Code |
+| [Fracture-Detection](https://github.com/RamanaNani/Fracture-Detection) | Multi-class bone fracture detection with YOLOv4, Faster R-CNN & Detection Transformers | Python, PyTorch, DETR |
+| [LLMs-in-Health-Science](https://github.com/RamanaNani/LLMs-in-Health-Science) | MedBERT, MedRoBERTa & Longformer ensemble for clinical trial NLI (SemEval 2024 Task 2) | Python, HuggingFace |
+| [Attention-Mechanism](https://github.com/RamanaNani/Attention-mechanism) | Full Transformer from scratch — encoder, decoder, multi-head attention + positional encoding | Python, PyTorch |
+| [Home Credit Risk](https://github.com/RamanaNani/Home_credit_risk) | Credit default prediction with LightGBM, SHAP explainability & MLflow experiment tracking | Python, LightGBM, SHAP |
+| [Chess + RL](https://github.com/RamanaNani/Chess-game-with-RL-environments) | DQN vs MCTS in PettingZoo chess env — 4672 action discrete space | Python, PyTorch, PettingZoo |
+| [CTR-Extraction](https://github.com/RamanaNani/CTR-extraction) | LLM-powered SAP clinical trial analyzer with FDA E9 compliance checking | Python, LLMs, NLP |
+| [Language-Translation](https://github.com/RamanaNani/Language-translation) | Fine-tuned seq2seq models EN↔GR and RO↔EN with Streamlit UI | Python, Transformers, Streamlit |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamanaNani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamanaNani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanaNani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter+notebook" />
 </div>
 
@@ -119,7 +119,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -132,10 +132,10 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 
 <div align="center">
 
-![ML Engineer](https://img.shields.io/badge/🤖_ML_Engineer-Expert-brightgreen?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-Advanced-blue?style=for-the-badge)
-![NLP](https://img.shields.io/badge/💬_NLP_%26_LLMs-Advanced-purple?style=for-the-badge)
-![RL](https://img.shields.io/badge/🎮_Reinforcement_Learning-Intermediate-orange?style=for-the-badge)
+![ML Engineer](https://img.shields.io/badge/ML_Engineer-Expert-brightgreen?style=for-the-badge&logo=pytorch&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-Advanced-blue?style=for-the-badge&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP_%26_LLMs-Advanced-purple?style=for-the-badge&logo=huggingface&logoColor=white)
+![RL](https://img.shields.io/badge/Reinforcement_Learning-Intermediate-orange?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -145,6 +145,6 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 
 *"Building AI that helps humans think better, not just faster."*
 
-**[🌐 Portfolio](https://portfolio-y5ox.vercel.app/) · [💼 GitHub](https://github.com/RamanaNani)**
+**[Portfolio](https://portfolio-y5ox.vercel.app/) &nbsp;&middot;&nbsp; [GitHub](https://github.com/RamanaNani)**
 
 </div>
