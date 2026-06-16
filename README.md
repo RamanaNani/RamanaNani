@@ -21,9 +21,9 @@
 
 ## 🚀 About Me
 
-I'm an **AI/ML Engineer** passionate about building intelligent systems at the intersection of AI and science. Currently building **Notes9** — an AI-native Electronic Lab Notebook (ELN) with an embedded AI assistant (Catalyst), RAG pipelines, molecular viewers, and a Cytoscape research map.
+I'm an **AI/ML Engineer** passionate about building intelligent systems at the intersection of AI and science. I'm currently building **Notes9** — an AI-native Electronic Lab Notebook (ELN) that helps researchers think deeper, not just record. Structured lab data, context-aware AI, and real scientific insights — all in one workspace.
 
-- 🔭 **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN (Next.js 16 + Supabase + FastAPI + AWS Bedrock)
+- 🔭 **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN with embedded AI assistant (Catalyst), RAG pipelines, and molecular viewers
 - 🤖 **Focus Areas:** LLMs, RAG systems, AI Agents, Agentic Workflows, Medical AI
 - 🧪 **Background:** Fracture Detection (YOLO/DETR), Medical Prognosis, Clinical NLP, Biomedical NLI
 - 🌱 **Currently Learning:** Multi-agent orchestration, AWS Bedrock, Mastra agent framework
@@ -41,7 +41,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend and UI**
+**Frontend & UI**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,14 +49,13 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TipTap](https://img.shields.io/badge/TipTap-6C47FF?style=for-the-badge&logoColor=white)
 
-**Backend and APIs**
+**Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Database and Cloud**
+**Database & Cloud**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -64,7 +63,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-**AI and ML**
+**AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -84,8 +83,6 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 ![NLP](https://img.shields.io/badge/NLP-8338EC?style=for-the-badge)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-06D6A0?style=for-the-badge)
 ![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-FB5607?style=for-the-badge)
-![Object Detection](https://img.shields.io/badge/Object_Detection-3A86FF?style=for-the-badge)
-![Ensemble Learning](https://img.shields.io/badge/Ensemble_Learning-8AC926?style=for-the-badge)
 
 ---
 
@@ -93,16 +90,15 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚀 [**Notes9**](https://github.com/Notes9Org/Notes9) | AI-native ELN with Catalyst AI assistant, RAG pipelines, molecular viewers (SeqViz, Mol*), Cytoscape research map | Next.js 16, Supabase, FastAPI, AWS Bedrock |
-| 🤖 [**agent-router**](https://github.com/RamanaNani/agent-router) | Routes Claude Code agents by task using BM25 + bandit algorithm — learns from ratings | JavaScript, Claude Code |
-| 🦴 [**Fracture-Detection**](https://github.com/RamanaNani/Fracture-Detection) | Multi-class bone fracture detection with YOLOv4, Faster R-CNN and Detection Transformers | Python, PyTorch, DETR |
-| 🧬 [**LLMs-in-Health-Science**](https://github.com/RamanaNani/LLMs-in-Health-Science) | MedBERT, MedRoBERTa and Longformer ensemble for clinical trial NLI (SemEval 2024 Task 2) | Python, HuggingFace |
+| 🚀 [**Notes9**](https://github.com/Notes9Org/Notes9) | AI-native ELN — Catalyst AI assistant, RAG pipelines, molecular viewers, Cytoscape research map | Next.js 16, Supabase, FastAPI, AWS Bedrock, TipTap |
+| 🤖 [**agent-router**](https://github.com/RamanaNani/agent-router) | Routes Claude Code agents by task using BM25 + bandit algorithm — learns from your ratings | JavaScript, Claude Code |
+| 🦴 [**Fracture-Detection**](https://github.com/RamanaNani/Fracture-Detection) | Multi-class bone fracture detection with YOLOv4, Faster R-CNN & Detection Transformers | Python, PyTorch, DETR |
+| 🧬 [**LLMs-in-Health-Science**](https://github.com/RamanaNani/LLMs-in-Health-Science) | MedBERT, MedRoBERTa & Longformer ensemble for clinical trial NLI (SemEval 2024 Task 2) | Python, HuggingFace |
 | 🧠 [**Attention-Mechanism**](https://github.com/RamanaNani/Attention-mechanism) | Full Transformer from scratch — encoder, decoder, multi-head attention + positional encoding | Python, PyTorch |
-| 📊 [**Home Credit Risk**](https://github.com/RamanaNani/Home_credit_risk) | Credit default prediction with LightGBM, SHAP explainability and MLflow tracking | Python, LightGBM, SHAP |
-| ♟️ [**Chess + RL**](https://github.com/RamanaNani/Chess-game-with-RL-environments) | DQN vs MCTS in PettingZoo chess env — 4672 discrete action space | Python, PyTorch, PettingZoo |
+| 📊 [**Home Credit Risk**](https://github.com/RamanaNani/Home_credit_risk) | Credit default prediction with LightGBM, SHAP explainability & MLflow experiment tracking | Python, LightGBM, SHAP |
+| ♟️ [**Chess + RL**](https://github.com/RamanaNani/Chess-game-with-RL-environments) | DQN vs MCTS in PettingZoo chess env — 4672 action discrete space | Python, PyTorch, PettingZoo |
 | 📋 [**CTR-Extraction**](https://github.com/RamanaNani/CTR-extraction) | LLM-powered SAP clinical trial analyzer with FDA E9 compliance checking | Python, LLMs, NLP |
-| 🌐 [**Language-Translation**](https://github.com/RamanaNani/Language-translation) | Fine-tuned seq2seq EN↔GR and RO↔EN translation models with Streamlit UI | Python, Transformers |
-| 🌐 [**mastra-cloud-agents**](https://github.com/Notes9Org/mastra-cloud-agents) | AI browser automation with Stagehand + Mastra multi-model agent framework | TypeScript, Mastra |
+| 🌐 [**Language-Translation**](https://github.com/RamanaNani/Language-translation) | Fine-tuned seq2seq models EN↔GR and RO↔EN with Streamlit UI | Python, Transformers, Streamlit |
 
 ---
 
@@ -124,6 +120,16 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamanaNani&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RamanaNani&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
