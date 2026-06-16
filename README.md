@@ -119,10 +119,24 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RamanaNani&theme=tokyonight&margin-w=4&margin-h=4&column=7" />
+
+![Commits](https://img.shields.io/badge/Total_Commits-500%2B-gold?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_Repos-15%2B-blue?style=for-the-badge&logo=github&logoColor=white)
+![AI Projects](https://img.shields.io/badge/AI_Projects-10%2B-red?style=for-the-badge&logo=pytorch&logoColor=white)
+![Stars](https://img.shields.io/github/stars/RamanaNani?style=for-the-badge&logo=github&color=yellow&label=GitHub+Stars)
+
+</div>
+
+<div align="center">
+
+![ML Engineer](https://img.shields.io/badge/🤖_ML_Engineer-Expert-brightgreen?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/👁️_Computer_Vision-Advanced-blue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/💬_NLP_%26_LLMs-Advanced-purple?style=for-the-badge)
+![RL](https://img.shields.io/badge/🎮_Reinforcement_Learning-Intermediate-orange?style=for-the-badge)
+
 </div>
 
 ---
