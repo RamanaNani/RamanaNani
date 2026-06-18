@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Ramana Reddy — AI/ML Engineer & Medical AI Builder</h1>
+<h1>Ramana Reddy - AI/ML Engineer & Medical AI Builder</h1>
 
 <h3>🧠 Building AI that thinks · 🔬 Medical AI Researcher · 🚀 Founder of Notes9</h3>
 
@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=RamanaNani&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-<p><em>I don't just use AI — I build systems that make AI agents smarter, medical research faster, and developers more powerful.</em></p>
+<p><em>I don't just use AI - I build systems that make AI agents smarter, medical research faster, and developers more powerful.</em></p>
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## <i class="fas fa-user"></i> About Me
 
-I'm an **AI/ML Engineer** who ships production-grade AI systems at the intersection of science and software. From multi-agent orchestration to medical NLP and computer vision — I build things that work in the real world.
+I'm an **AI/ML Engineer** who ships production-grade AI systems at the intersection of science and software. From multi-agent orchestration to medical NLP and computer vision - I build things that work in the real world.
 
 - <i class="fas fa-hammer"></i> **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN with Catalyst AI assistant, RAG pipelines, and molecular viewers for researchers
 - <i class="fas fa-robot"></i> **Open Source:** [agent-router](https://github.com/RamanaNani/agent-router) — routes Claude Code agents by task type using BM25 + multi-armed bandit; learns and improves from your ratings
