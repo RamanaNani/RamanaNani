@@ -25,8 +25,8 @@
 
 I'm an **AI/ML Engineer** who ships production-grade AI systems at the intersection of science and software. From multi-agent orchestration to medical NLP and computer vision - I build things that work in the real world.
 
-- <i class="fas fa-hammer"></i> **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN with Catalyst AI assistant, RAG pipelines, and molecular viewers for researchers
-- <i class="fas fa-robot"></i> **Open Source:** [agent-router](https://github.com/RamanaNani/agent-router) — routes Claude Code agents by task type using BM25 + multi-armed bandit; learns and improves from your ratings
+- <i class="fas fa-hammer"></i> **Currently Building:** [Notes9](https://github.com/Notes9Org) - AI-native ELN with Catalyst AI assistant, RAG pipelines, and molecular viewers for researchers
+- <i class="fas fa-robot"></i> **Open Source:** [agent-router](https://github.com/RamanaNani/agent-router) - routes Claude Code agents by task type using BM25 + multi-armed bandit; learns and improves from your ratings
 - <i class="fas fa-target"></i> **Focus Areas:** LLMs, RAG systems, AI Agents, Agentic Workflows, Medical AI
 - <i class="fas fa-graduation-cap"></i> **Background:** Fracture Detection (YOLO/DETR), Medical Prognosis, Clinical NLP, Biomedical NLI
 - <i class="fas fa-book"></i> **Currently Learning:** Multi-agent orchestration, AWS Bedrock, Mastra agent framework
@@ -93,13 +93,13 @@ I'm an **AI/ML Engineer** who ships production-grade AI systems at the intersect
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Notes9](https://github.com/Notes9Org) | AI-native ELN — Catalyst AI assistant, RAG pipelines, molecular viewers, Cytoscape research map | Next.js 16, Supabase, FastAPI, AWS Bedrock, TipTap |
-| [agent-router](https://github.com/RamanaNani/agent-router) | Routes Claude Code agents by task using BM25 + bandit algorithm — learns from your ratings | JavaScript, Claude Code |
+| [Notes9](https://github.com/Notes9Org) | AI-native ELN - Catalyst AI assistant, RAG pipelines, molecular viewers, Cytoscape research map | Next.js 16, Supabase, FastAPI, AWS Bedrock, TipTap |
+| [agent-router](https://github.com/RamanaNani/agent-router) | Routes Claude Code agents by task using BM25 + bandit algorithm - learns from your ratings | JavaScript, Claude Code |
 | [Fracture-Detection](https://github.com/RamanaNani/Fracture-Detection) | Multi-class bone fracture detection with YOLOv4, Faster R-CNN & Detection Transformers | Python, PyTorch, DETR |
 | [LLMs-in-Health-Science](https://github.com/RamanaNani/LLMs-in-Health-Science) | MedBERT, MedRoBERTa & Longformer ensemble for clinical trial NLI (SemEval 2024 Task 2) | Python, HuggingFace |
-| [Attention-Mechanism](https://github.com/RamanaNani/Attention-mechanism) | Full Transformer from scratch — encoder, decoder, multi-head attention + positional encoding | Python, PyTorch |
+| [Attention-Mechanism](https://github.com/RamanaNani/Attention-mechanism) | Full Transformer from scratch - encoder, decoder, multi-head attention + positional encoding | Python, PyTorch |
 | [Home Credit Risk](https://github.com/RamanaNani/Home_credit_risk) | Credit default prediction with LightGBM, SHAP explainability & MLflow experiment tracking | Python, LightGBM, SHAP |
-| [Chess + RL](https://github.com/RamanaNani/Chess-game-with-RL-environments) | DQN vs MCTS in PettingZoo chess env — 4672 action discrete space | Python, PyTorch, PettingZoo |
+| [Chess + RL](https://github.com/RamanaNani/Chess-game-with-RL-environments) | DQN vs MCTS in PettingZoo chess env - 4672 action discrete space | Python, PyTorch, PettingZoo |
 | [CTR-Extraction](https://github.com/RamanaNani/CTR-extraction) | LLM-powered SAP clinical trial analyzer with FDA E9 compliance checking | Python, LLMs, NLP |
 | [Language-Translation](https://github.com/RamanaNani/Language-translation) | Fine-tuned seq2seq models EN↔GR and RO↔EN with Streamlit UI | Python, Transformers, Streamlit |
 
