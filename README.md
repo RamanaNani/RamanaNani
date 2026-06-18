@@ -31,7 +31,7 @@ I'm an **AI/ML Engineer** who ships production-grade AI systems at the intersect
 - <i class="fas fa-graduation-cap"></i> **Background:** Fracture Detection (YOLO/DETR), Medical Prognosis, Clinical NLP, Biomedical NLI
 - <i class="fas fa-book"></i> **Currently Learning:** Multi-agent orchestration, AWS Bedrock, Mastra agent framework
 - <i class="fas fa-comments"></i> **Ask me about:** AI/ML, RAG pipelines, Claude Code agents, Next.js + Supabase, Python
-- <i class="fas fa-lightbulb"></i> **Fun fact:** I built an agent that routes other AI agents by task — and it gets smarter every time you rate it
+- <i class="fas fa-lightbulb"></i> **Fun fact:** I built an agent that routes other AI agents by task - and it gets smarter every time you rate it
 
 ---
 
