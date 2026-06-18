@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>Hi, I'm Ramana Reddy</h1>
+<h1>Ramana Reddy — AI/ML Engineer & Medical AI Builder</h1>
 
-<h3>AI/ML Engineer &nbsp;&middot;&nbsp; Medical AI Researcher &nbsp;&middot;&nbsp; Building Notes9</h3>
+<h3>🧠 Building AI that thinks · 🔬 Medical AI Researcher · 🚀 Founder of Notes9</h3>
 
 <p>
   <a href="https://portfolio-y5ox.vercel.app/">
@@ -15,20 +15,23 @@
   <img src="https://komarev.com/ghpvc/?username=RamanaNani&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
+<p><em>I don't just use AI — I build systems that make AI agents smarter, medical research faster, and developers more powerful.</em></p>
+
 </div>
 
 ---
 
 ## <i class="fas fa-user"></i> About Me
 
-I'm an **AI/ML Engineer** passionate about building intelligent systems at the intersection of AI and science. I'm currently building **Notes9** — an AI-native Electronic Lab Notebook (ELN) that helps researchers and scientists work smarter.
+I'm an **AI/ML Engineer** who ships production-grade AI systems at the intersection of science and software. From multi-agent orchestration to medical NLP and computer vision — I build things that work in the real world.
 
-- <i class="fas fa-hammer"></i> **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN with embedded AI assistant (Catalyst), RAG pipelines, and molecular viewers
+- <i class="fas fa-hammer"></i> **Currently Building:** [Notes9](https://github.com/Notes9Org) — AI-native ELN with Catalyst AI assistant, RAG pipelines, and molecular viewers for researchers
+- <i class="fas fa-robot"></i> **Open Source:** [agent-router](https://github.com/RamanaNani/agent-router) — routes Claude Code agents by task type using BM25 + multi-armed bandit; learns and improves from your ratings
 - <i class="fas fa-target"></i> **Focus Areas:** LLMs, RAG systems, AI Agents, Agentic Workflows, Medical AI
 - <i class="fas fa-graduation-cap"></i> **Background:** Fracture Detection (YOLO/DETR), Medical Prognosis, Clinical NLP, Biomedical NLI
 - <i class="fas fa-book"></i> **Currently Learning:** Multi-agent orchestration, AWS Bedrock, Mastra agent framework
 - <i class="fas fa-comments"></i> **Ask me about:** AI/ML, RAG pipelines, Claude Code agents, Next.js + Supabase, Python
-- <i class="fas fa-lightbulb"></i> **Fun fact:** I built an agent that routes other AI agents by task — and learns from your ratings
+- <i class="fas fa-lightbulb"></i> **Fun fact:** I built an agent that routes other AI agents by task — and it gets smarter every time you rate it
 
 ---
 
@@ -110,7 +113,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamanaNani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RamanaNani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
