@@ -105,7 +105,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent systems at the i
 ## <i class="fas fa-chart-line"></i> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamanaNani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamanaNani&show_icons=true&hide_border=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamanaNani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter+notebook" alt="Top Languages" />
 </div>
 
