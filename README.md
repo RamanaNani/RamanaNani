@@ -141,7 +141,6 @@ I'm an **AI/ML Engineer** who ships production-grade AI systems at the intersect
 ![RL](https://img.shields.io/badge/Reinforcement_Learning-Intermediate-orange?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
 ---
 
 <div align="center">
