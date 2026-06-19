@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/United_States-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=RamanaNani&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://github.com/RamanaNani"><img src="https://komarev.com/ghpvc/?username=RamanaNani&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" /></a>
 </p>
 
 <p><em>I don't just use AI - I build systems that make AI agents smarter, medical research faster, and developers more powerful.</em></p>
